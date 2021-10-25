@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://https://raw.githubusercontent.com/alvinlee83/BCG_Class/main/images/Alvin%20photo.jpg)
+![alt text](https://raw.githubusercontent.com/alvinlee83/BCG_Class/main/images/Alvin%20photo.jpg)
 
 <!-- Add your details -->
 
